@@ -3,6 +3,8 @@
 <!--   <h2>🐍 Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div> -->
+
+![Profile views](https://komarev.com/ghpvc/?username=Suyash-Kamath&label=Profile%20views&color=0e75b6&style=flat)
 <h2 align="center">Leetcode Info<h2>
 
 
